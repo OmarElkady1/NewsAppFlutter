@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Yun Li",
+      "title": "Stocks making the biggest moves after hours: Amazon, Apple, Starbucks & more - CNBC",
+      "description": "See which stocks are posting big moves after the bell.",
+      "url": "https://www.cnbc.com/2021/10/28/stocks-making-the-biggest-moves-after-hours-amazon-apple-starbucks-more.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106936256-1630519424051-gettyimages-1233896478-widak-dailylif210708_npJzk.jpeg?v=1630519581",
+      "publishedAt": "2021-10-28T21:09:15Z",
+      "content": "Check out the companies making headlines after the bell: \r\nAmazon  Shares of the e-commerce giant dropped more than 4% in extended trading on Thursday after a disappointing quarterly earnings report.… [+1385 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Sylvan Lane",
+      "title": "Richard Burr under insider trading investigation by SEC | TheHill - The Hill",
+      "description": "The Securities and Exchange Commission (SEC) is investigating whe...",
+      "url": "https://thehill.com/policy/finance/579005-richard-burr-under-insider-trading-investigation-by-sec",
+      "urlToImage": "https://thehill.com/sites/default/files/burrrichard_062221gn_lead.jpg",
+      "publishedAt": "2021-10-28T21:06:27Z",
+      "content": "The Securities and Exchange Commission (SEC) is investigating whether Sen. Richard BurrRichard Mauze BurrInternal poll shows McCrory with double-digit lead in North Carolina GOP Senate primaryDemocra… [+2935 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Emily Bary",
+      "title": "Apple quarterly sales miss for first time since 2018 amid supply constraints - MarketWatch",
+      "description": "Stock falls as revenue for iPhones and wearables came in below expectations for first time since holiday season of 2018",
+      "url": "https://www.marketwatch.com/story/apple-sales-miss-for-first-time-since-2018-stock-falls-after-earnings-11635454056",
+      "urlToImage": "https://images.mktw.net/im-425487/social",
+      "publishedAt": "2021-10-28T20:47:00Z",
+      "content": "Apple Inc. delivered a rare revenue miss Thursday as the smartphone giants iPhone sales and revenue grew slower than anticipated.Apples \r\n AAPL,\r\n +2.50%\r\nrevenue for the period increased to $83.4 bi… [+3296 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jordan Novet",
+      "title": "Amazon Web Services tops analysts' estimates on profit and revenue - CNBC",
+      "description": "Amazon's cloud business posted more operating income than the commerce company as a whole in the third quarter, with growth accelerating.",
+      "url": "https://www.cnbc.com/2021/10/28/aws-earnings-q3-2021.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106967350-1635450606804-gettyimages-1183490739-DREAMFORCE_2019.jpeg?v=1635450672",
+      "publishedAt": "2021-10-28T20:15:45Z",
+      "content": "Amazon's cloud unit grew faster than analysts had expected in the third quarter, as companies continue to rely on its computing and storage infrastructure to run websites and applications.\r\nRevenue f… [+1752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KCRA Sacramento"
+      },
+      "author": "Daniel Macht",
+      "title": "Sacramento County recommends parents of kids 5-11 contact pediatrician for COVID-19 vaccine - KCRA Sacramento",
+      "description": "The county plans clinics around the week of Nov. 8",
+      "url": "https://www.kcra.com/article/sacramento-county-recommends-parents-of-kids-5-11-contact-pediatrician-for-covid-19-vaccine/38095763",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/19eb3df6-371c-4623-8f54-50ec5014756b/19eb3df6-371c-4623-8f54-50ec5014756b_image.jpg?crop=0.697xw:0.695xh;0.0410xw,0.0349xh&resize=1200:*",
+      "publishedAt": "2021-10-28T20:13:00Z",
+      "content": "Pfizers COVID-19 vaccine for children ages 5-11 could be approved for use in California as soon as next week, but Sacramento County public health officials plan to wait a few more days before making … [+2292 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Rishi Iyengar, CNN Business",
+      "title": "Activision Blizzard's CEO looks to slash his pay by millions as the company's harassment scandal continues - CNN",
+      "description": "Activision Blizzard CEO Bobby Kotick has asked the company's board to slash his pay to the \"lowest amount California law will allow\" until the gaming company fixes its issues with gender discrimination and harassment, he said in a letter to employees on Thurs…",
+      "url": "https://www.cnn.com/2021/10/28/tech/activision-blizzard-bobby-kotick-pay-cut/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210727215945-bobby-kotick-file-2019-super-tease.jpg",
+      "publishedAt": "2021-10-28T20:12:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Rachel Siegel, Andrew Van Dam",
+      "title": "GDP grows 2% in third quarter as delta variant hurt economic recovery - The Washington Post",
+      "description": "The GDP report, released Thursday by the Bureau of Economic Analysis, offered yet another snapshot of an economy overshadowed by the ongoing pandemic.",
+      "url": "https://www.washingtonpost.com/business/2021/10/28/gdp-q3-economy-delta/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BMTKVIRLOII6ZML5TBOBQ3PDHA.jpg&w=1440",
+      "publishedAt": "2021-10-28T19:54:03Z",
+      "content": "The White House, top lawmakers and economists are debating whether the weak GDP report reflects a blip on the way to a boom, or something more, especially as Democrats close in on a deal on President… [+8095 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Amelia Lucas",
+      "title": "Starbucks revenue misses after China's Covid resurgence hurts sales - CNBC",
+      "description": "Starbucks saw same-store sales in China shrink by 7% during its fiscal fourth quarter.",
+      "url": "https://www.cnbc.com/2021/10/28/starbucks-sbux-q4-2021-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106575876-1591978331152ap_20143040608147.jpg?v=1599238371",
+      "publishedAt": "2021-10-28T19:34:29Z",
+      "content": "Starbucks on Thursday reported quarterly revenue that fell short of expectations as Covid-19 resurgences in China weakened sales.\r\nShares of the company fell more than 1% in extended trading.\r\nHere's… [+1867 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Gains As Biden Pushes Spending; Apple Stock Up With This Due; Donald Trump SPAC Spikes - Investor's Business Daily",
+      "description": "The Dow Jones gained as President Joe Biden pushed a spending package. Apple stock rose ahead of earnings. The Donald Trump SPAC rallied.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-gains-as-joe-biden-pushes-spending-apple-stock-up-apple-earnings-donald-trump-spac-spikes/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/04/Stock-bidensunglasses-01-shutt.jpg",
+      "publishedAt": "2021-10-28T19:18:00Z",
+      "content": "The Dow Jones Industrial Average gained as President Biden pushed a slimmed down social spending package. Apple (AAPL) and Amazon (AMZN) popped ahead of results, while Merck (MRK) was the top blue ch… [+7111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Alexandra Garrett",
+      "title": "Target starts early Black Friday deals this Sunday. Here's what you need to know - CNET",
+      "description": "A few lowest-to-date prices are on the way.",
+      "url": "https://www.cnet.com/tech/home-entertainment/target-starts-early-black-friday-deals-this-sunday-heres-what-you-need-to-know/",
+      "urlToImage": "https://www.cnet.com/a/img/q0JcWdheVakfdXT_A2IQqAIPLss=/1200x630/2020/06/29/5805dcb8-f527-470e-9e1f-6a58972ffeaf/target-logo-laptop-3476.jpg",
+      "publishedAt": "2021-10-28T18:51:00Z",
+      "content": "Target will add more sales every Sunday.\r\nAngela Lang/CNET\r\nTarget is the latest retailer to kick off its early Black Friday sales. Starting Oct. 31, Target will have week-long deals on electronics, … [+1337 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "Neha Chamaria",
+      "title": "Why Lucid Group Stock Blasted 45% Higher Today - Motley Fool",
+      "description": "Just days before the company delivers its first electric cars, its CEO's latest remarks have sent the markets into a tizzy.",
+      "url": "https://www.fool.com/investing/2021/10/28/why-lucid-group-stock-blasted-45-higher-today/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/649000/lucid-air-exterior-07.jpg",
+      "publishedAt": "2021-10-28T18:35:41Z",
+      "content": "What happened\r\nLucid Group(NASDAQ:LCID) has become unstoppable: The electric vehicle stock soared again today, jumping an eye-popping 45% as of 1 p.m. EDT.\r\nJust when investors were looking forward t… [+2662 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Kate Kate",
+      "title": "CDC confirms deadly bacteria in home spray recalled by Walmart - CBS News",
+      "description": "Federal agency urges people to return product, saying it doesn't want dangerous bottles to end up in landfills.",
+      "url": "https://www.cbsnews.com/news/cdc-deadly-bacteria-room-spray-walmart-recall/",
+      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/22/e3f04061-c9bc-4d41-80c4-80753f73b62a/thumbnail/1200x630/1dc4e8b6ddea3b5ddca324f7c9ac435a/upc84140411422-lavender-1.jpg",
+      "publishedAt": "2021-10-28T18:24:00Z",
+      "content": "Federal health officials have confirmed that a room spray recently recalled by Walmart contained a \"rare and dangerous\" bacteria that infected four people, killing two, including a child.\r\nThe Center… [+6199 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Heath",
+      "title": "Mark Zuckerberg on why Facebook is rebranding to Meta - The Verge",
+      "description": "Mark Zuckerberg explains Facebook’s new company name, new focus on the metaverse, and the goals of its big rebrand.",
+      "url": "https://www.theverge.com/22749919/mark-zuckerberg-facebook-meta-company-rebrand",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/K1fbRtDy9tWSheCcPIz4918XbXg=/0x147:2048x1219/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22960918/The_Verge_Mark_Zuckerberg_interview__1__01.jpg",
+      "publishedAt": "2021-10-28T18:20:58Z",
+      "content": "For the first time in 17 years, Mark Zuckerberg has a new job title.\r\nOn Thursday, he officially became the CEO and chairman of Meta, the new parent company name for Facebook. The rebrand is about so… [+26765 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Michael Wayland",
+      "title": "Why Ford's stock is surging while shares of GM are flat after Q3 earnings beats - CNBC",
+      "description": "The differences between the third-quarter earnings reports ranged from outlooks to their autonomous vehicle businesses and stock dividends.",
+      "url": "https://www.cnbc.com/2021/10/28/why-fords-stock-is-surging-while-gm-shares-are-flat-after-q3-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106965960-1635269096033-Untitled-3.jpg?v=1635269138",
+      "publishedAt": "2021-10-28T18:10:48Z",
+      "content": "The General Motors world headquarters office is seen at Detroit's Renaissance Center.\r\nDETROIT Both Ford Motor and General Motors beat Wall Street's expectations for the third quarter but shares of G… [+7329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Annie Palmer",
+      "title": "Amazon ends service that delivers packages to Prime members' cars - CNBC",
+      "description": "Amazon introduced the service in 2018 as a way for delivery people to securely drop off packages in Prime users' car trunks.",
+      "url": "https://www.cnbc.com/2021/10/28/amazon-ends-service-that-delivers-packages-to-prime-members-cars.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105154319-1524554683431.jpg?v=1529478092",
+      "publishedAt": "2021-10-28T18:06:23Z",
+      "content": "Amazon has shut down its service that delivered packages to the trunks of customer's cars.\r\nThe company notified Prime users on Thursday that the service, called Key In-Car Delivery, is being \"suspen… [+1528 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Matt Egan, CNN Business",
+      "title": "Citigroup to US staff: Get vaccinated, or you're fired - CNN",
+      "description": "Citigroup told staff Thursday that US-based employees will be required to get fully vaccinated if they want to stay employed.",
+      "url": "https://www.cnn.com/2021/10/28/investing/citigroup-vaccine-mandate/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210616223114-citi-logo-file-super-tease.jpg",
+      "publishedAt": "2021-10-28T18:04:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Julia Musto",
+      "title": "Industrial chemicals found in some fast food: study - Fox News",
+      "description": "Researchers said chemicals used in plastics called phthalates have reportedly been detected in fast-food dishes, including hamburgers and chicken burritos.",
+      "url": "https://www.foxnews.com/health/industrial-chemicals-found-some-fast-food-study",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/05/burger-woman-istock.jpg",
+      "publishedAt": "2021-10-28T18:03:06Z",
+      "content": "Chemicals used in plastics called phthalates have reportedly been detected in fast-fooditems, according to researchers. \r\nIn a study published Tuesday in the Journal of Exposure Science &amp; Environ… [+3877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Kevin Stankiewicz",
+      "title": "Stanley Black & Decker nearing $1 billion of goods stuck in supply chain mess, CEO says - CNBC",
+      "description": "Stanley Black & Decker is also seeing \"massive inflation\" in material, labor and freight costs, CEO Jim Loree told CNBC on Thursday.",
+      "url": "https://www.cnbc.com/2021/10/28/stanley-black-decker-nearing-1-billion-of-goods-stuck-in-supply-chain-mess-ceo-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104796697-GettyImages-820951854-black-and-decker.jpg?v=1635433301",
+      "publishedAt": "2021-10-28T17:52:24Z",
+      "content": "Toolmaker Stanley Black &amp; Decker has seen a dramatic increase in the amount of products hung up across the clogged supply chain, CEO Jim Loree told CNBC on Thursday. \r\n\"The reality is at the begi… [+2344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WLKY Louisville"
+      },
+      "author": "WLKY Digital Team",
+      "title": "GE Appliances announces big investment in Louisville, bringing 1,000 new jobs - WLKY Louisville",
+      "description": "GE Appliances announced Thursday that it plans to invest $450 million at Appliance Park in Louisville.",
+      "url": "https://www.wlky.com/article/ge-appliances-investment-new-jobs-louisville/38093241",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ge-appliances-haier-1538403737.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2021-10-28T17:47:00Z",
+      "content": "LOUISVILLE, Ky. —GE Appliances announced Thursday that it plans to invest $450 million at Appliance Park in Louisville.\r\nWith that money, it plans to add more than 1,000 new full-time jobs to the are… [+1344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Anirban Sen",
+      "title": "U.S. congresswoman Greene bought Trump SPAC shares - Yahoo Finance",
+      "description": "U.S. Representative Marjorie Taylor Greene, an ally of Donald Trump, bought as much as $50,000 worth of shares in the special purpose acquisition company...",
+      "url": "https://finance.yahoo.com/news/u-congresswoman-greene-bought-trump-170751373.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Aghtb7_3P6dlyrS2j6Nrow--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/41c65876b132836a089969118b72ee00",
+      "publishedAt": "2021-10-28T17:07:51Z",
+      "content": "By Anirban Sen\r\n(Reuters) - U.S. Representative Marjorie Taylor Greene, an ally of Donald Trump, bought as much as $50,000 worth of shares in the special purpose acquisition company (SPAC) that has a… [+1978 chars]"
+    }
+  ]
+}
